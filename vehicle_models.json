@@ -68,6 +68,14 @@
       "tankCapacityLiters": 43.0
     },
     {
+      "brand": "Citroën",
+      "modelCode": "A4DG",
+      "model": "C5 X",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 12.4,
+      "tankCapacityLiters": 40.0
+    },
+    {
       "brand": "Peugeot",
       "modelCode": "ZKXZ",
       "model": "E-2008",
