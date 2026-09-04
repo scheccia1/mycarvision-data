@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "updatedAt": "2026-09-04",
+  "models": [
+    {
+      "brand": "Citroën",
+      "modelCode": "CBZ",
+      "model": "ë-C3 IV",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 44.2,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "CPZ",
+      "model": "ë-C3 Aircross II",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 54.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "CCHPV",
+      "model": "C3 IV",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 44.0
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "CCH",
+      "model": "C3 IV",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 44.0
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "CCY",
+      "model": "C4",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 50.0
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "BCZ",
+      "model": "ë-C4",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 50.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "CDF",
+      "model": "C5 Aircross",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 53.0
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "A4DG",
+      "model": "C5 Aircross Hybrid 225",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 13.2,
+      "tankCapacityLiters": 43.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "ZKXZ",
+      "model": "E-2008",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 46.3,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "USH",
+      "model": "2008 Hybrid",
+      "vehicleType": "MildHybrid",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 44.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "M4DG",
+      "model": "3008 Hybrid",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 13.2,
+      "tankCapacityLiters": 43.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "KBDG",
+      "model": "3008 Plug-in Hybrid",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 21.0,
+      "tankCapacityLiters": 55.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "KAHP",
+      "model": "3008 MildHybrid",
+      "vehicleType": "MildHybrid",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 55.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "KCZ",
+      "model": "E-3008",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 73.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "P21",
+      "model": "208",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 44.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "P24",
+      "model": "308",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 52.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "F3DG",
+      "model": "408 Plug-in Hybrid",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 14.6,
+      "tankCapacityLiters": 40.0
+    },
+
+    {
+      "brand": "Opel",
+      "modelCode": "F08",
+      "model": "Corsa",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 40.0
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "UHZKW",
+      "model": "Corsa Electric GS",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 48.1,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "UHZKX",
+      "model": "Corsa-e (Edition)",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 46.3,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "UKZK",
+      "model": "Mokka-e",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 46.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "UHN",
+      "model": "Mokka",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 44.0
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "CMZYA",
+      "model": "Frontera Electric",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 54.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "CSHP",
+      "model": "Frontera Hybrid GS",
+      "vehicleType": "MildHybrid",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 44.0
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "Z45G",
+      "model": "Grandland X Plug-in Hybrid",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 13.2,
+      "tankCapacityLiters": 43.0
+    },
+    {
+      "brand": "DS",
+      "modelCode": "X2DGZ",
+      "model": "9",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 17.0,
+      "tankCapacityLiters": 42.0
+    }
+  ]
+}
