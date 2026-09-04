@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 1,
+  "dataVersion": 2,
   "updatedAt": "2026-09-04",
   "models": [
     {
       "brand": "Citroën",
       "modelCode": "CBZ",
-      "model": "ë-C3 IV test online",
+      "model": "ë-C3 IV",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 44.2,
       "tankCapacityLiters": null
