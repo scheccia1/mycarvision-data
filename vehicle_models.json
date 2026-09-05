@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 2,
-  "updatedAt": "2026-09-04",
+  "dataVersion": 3,
+  "updatedAt": "2026-09-05",
   "models": [
     {
       "brand": "Citroën",
@@ -47,6 +47,14 @@
       "brand": "Citroën",
       "modelCode": "BCZ",
       "model": "ë-C4",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 50.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "BFZK",
+      "model": "ë-C4 X",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 50.0,
       "tankCapacityLiters": null
