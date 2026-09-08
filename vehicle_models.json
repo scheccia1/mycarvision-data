@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 3,
-  "updatedAt": "2026-09-05",
+  "dataVersion": 4,
+  "updatedAt": "2026-09-09",
   "models": [
     {
       "brand": "Citroën",
@@ -61,7 +61,7 @@
     },
      {
       "brand": "Citroën",
-      "modelCode": "BFZK",
+      "modelCode": "KCZK",
       "model": "ë-C5 Aircross II",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 73.0,
