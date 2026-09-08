@@ -59,6 +59,14 @@
       "nominalBatteryCapacityKwh": 50.0,
       "tankCapacityLiters": null
     },
+     {
+      "brand": "Citroën",
+      "modelCode": "BFZK",
+      "model": "ë-C5 Aircross II",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 73.0,
+      "tankCapacityLiters": null
+    },
     {
       "brand": "Citroën",
       "modelCode": "CDF",
