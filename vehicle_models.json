@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 4,
-  "updatedAt": "2026-09-09",
+  "dataVersion": 5,
+  "updatedAt": "2026-09-10",
   "models": [
     {
       "brand": "Citroën",
@@ -137,6 +137,14 @@
       "model": "E-3008",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 73.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "VZZK",
+      "model": "E-Traveller",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 75.0,
       "tankCapacityLiters": null
     },
     {
