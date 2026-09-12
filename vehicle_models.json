@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 5,
-  "updatedAt": "2026-09-10",
+  "dataVersion": 6,
+  "updatedAt": "2026-09-12",
   "models": [
     {
       "brand": "Citroën",
@@ -21,17 +21,17 @@
     },
     {
       "brand": "Citroën",
-      "modelCode": "CCHPV",
+      "modelCode": "CCHP",
       "model": "C3 IV",
       "vehicleType": "Thermic",
       "nominalBatteryCapacityKwh": null,
       "tankCapacityLiters": 44.0
     },
-    {
+       {
       "brand": "Citroën",
-      "modelCode": "CCH",
-      "model": "C3 IV",
-      "vehicleType": "Thermic",
+      "modelCode": "CGHP",
+      "model": "C3 Aircross Hybrid",
+      "vehicleType": "MildHybrid",
       "nominalBatteryCapacityKwh": null,
       "tankCapacityLiters": 44.0
     },
