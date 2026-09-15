@@ -59,14 +59,6 @@
       "nominalBatteryCapacityKwh": 50.0,
       "tankCapacityLiters": null
     },
-     {
-      "brand": "Citroën",
-      "modelCode": "KCZK",
-      "model": "ë-C5 Aircross II",
-      "vehicleType": "Electric",
-      "nominalBatteryCapacityKwh": 73.0,
-      "tankCapacityLiters": null
-    },
     {
       "brand": "Citroën",
       "modelCode": "CDF",
@@ -133,7 +125,7 @@
     },
     {
       "brand": "Peugeot",
-      "modelCode": "KCZ",
+      "modelCode": "KCZK",
       "model": "E-3008",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 73.0,
