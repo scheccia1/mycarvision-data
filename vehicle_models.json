@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 7,
-  "updatedAt": "2026-09-17",
+  "dataVersion": 8,
+  "updatedAt": "2026-10-03",
   "models": [
     {
       "brand": "Citroën",
@@ -235,6 +235,14 @@
       "vehicleType": "Hybrid",
       "nominalBatteryCapacityKwh": 17.0,
       "tankCapacityLiters": 42.0
+    },
+    {
+      "brand": "DS",
+      "modelCode": "FNZK",
+      "model": "4",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 54.0,
+      "tankCapacityLiters": null
     }
   ]
 }
