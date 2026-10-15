@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 8,
-  "updatedAt": "2026-10-03",
+  "dataVersion": 9,
+  "updatedAt": "2026-10-15",
   "models": [
     {
       "brand": "Citroën",
@@ -186,6 +186,14 @@
       "model": "Corsa-e (Edition)",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 46.3,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Opel",
+      "modelCode": "UKZKW",
+      "model": "SUV e-2008",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 54.0,
       "tankCapacityLiters": null
     },
     {
