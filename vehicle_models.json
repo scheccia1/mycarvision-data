@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 10,
-  "updatedAt": "2026-10-16",
+  "dataVersion": 11,
+  "updatedAt": "2026-10-29",
   "models": [
     {
       "brand": "Citroën",
@@ -38,6 +38,14 @@
     {
       "brand": "Citroën",
       "modelCode": "CCY",
+      "model": "C4",
+      "vehicleType": "Thermic",
+      "nominalBatteryCapacityKwh": null,
+      "tankCapacityLiters": 50.0
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "BBYH",
       "model": "C4",
       "vehicleType": "Thermic",
       "nominalBatteryCapacityKwh": null,
