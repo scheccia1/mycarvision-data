@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 11,
-  "updatedAt": "2026-10-29",
+  "dataVersion": 12,
+  "updatedAt": "2026-10-31",
   "models": [
     {
       "brand": "Citroën",
@@ -79,6 +79,14 @@
       "brand": "Citroën",
       "modelCode": "A4DG",
       "model": "C5 Aircross Hybrid 225",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 13.2,
+      "tankCapacityLiters": 43.0
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "KBDGK",
+      "model": "C5 Plug-in Hybrid",
       "vehicleType": "Hybrid",
       "nominalBatteryCapacityKwh": 13.2,
       "tankCapacityLiters": 43.0
