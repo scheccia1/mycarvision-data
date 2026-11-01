@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 12,
-  "updatedAt": "2026-10-31",
+  "dataVersion": 13,
+  "updatedAt": "2026-11-01",
   "models": [
     {
       "brand": "Citroën",
@@ -9,6 +9,14 @@
       "model": "ë-C3 IV",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 44.2,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "EZZKX",
+      "model": "Berlingo",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 50.0,
       "tankCapacityLiters": null
     },
     {
