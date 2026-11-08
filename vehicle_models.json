@@ -259,6 +259,14 @@
       "nominalBatteryCapacityKwh": 13.2,
       "tankCapacityLiters": 43.0
     },
+     {
+      "brand": "Opel",
+      "modelCode": "VXKKBDGK",
+      "model": "Grandland X Plug-in Hybrid",
+      "vehicleType": "Hybrid",
+      "nominalBatteryCapacityKwh": 17.9,
+      "tankCapacityLiters": 55.0
+    },
     {
       "brand": "DS",
       "modelCode": "X2DG",
