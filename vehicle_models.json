@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 15,
-  "updatedAt": "2026-11-08",
+  "dataVersion": 16,
+  "updatedAt": "2026-11-11",
   "models": [
     {
       "brand": "Citroën",
@@ -73,6 +73,14 @@
       "model": "ë-C4 X",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 50.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "VR7KCZKZ",
+      "model": "ë-C5 Aircross",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 73.0,
       "tankCapacityLiters": null
     },
     {
