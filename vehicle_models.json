@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 16,
-  "updatedAt": "2026-11-11",
+  "dataVersion": 17,
+  "updatedAt": "2026-11-14",
   "models": [
     {
       "brand": "Citroën",
@@ -121,6 +121,14 @@
       "model": "E-2008",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 46.3,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Peugeot",
+      "modelCode": "VR3UHZK",
+      "model": "e-208",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 50,
       "tankCapacityLiters": null
     },
     {
