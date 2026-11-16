@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 18,
+  "dataVersion": 19,
   "updatedAt": "2026-11-16",
   "models": [
     {
@@ -15,6 +15,14 @@
       "brand": "Citroën",
       "modelCode": "EZZKX",
       "model": "Berlingo",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 50.0,
+      "tankCapacityLiters": null
+    },
+     {
+      "brand": "Citroën",
+      "modelCode": "EMZKU",
+      "model": "ë-Berlingo",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 50.0,
       "tankCapacityLiters": null
@@ -81,6 +89,14 @@
       "model": "ë-C5 Aircross",
       "vehicleType": "Electric",
       "nominalBatteryCapacityKwh": 73.0,
+      "tankCapacityLiters": null
+    },
+    {
+      "brand": "Citroën",
+      "modelCode": "V1ZKX",
+      "model": "ë-Jumpy",
+      "vehicleType": "Electric",
+      "nominalBatteryCapacityKwh": 75.0,
       "tankCapacityLiters": null
     },
     {
